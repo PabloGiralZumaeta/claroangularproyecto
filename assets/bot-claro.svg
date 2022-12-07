@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>clarobot_80x80</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 60.4104 58.761 60.4104 58.761 0.0004 0 0.0004"></polygon>
+    </defs>
+    <g id="clarobot_80x80" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-13" transform="translate(11.000000, 10.000000)">
+            <path d="M43.5704,59.4102 L15.1904,59.4102 C11.2884,59.4102 8.0944,56.2182 8.0944,52.3152 L8.0944,28.6652 C8.0944,24.7632 11.2884,21.5692 15.1904,21.5692 L43.5704,21.5692 C47.4724,21.5692 50.6664,24.7632 50.6664,28.6652 L50.6664,52.3152 C50.6664,56.2182 47.4724,59.4102 43.5704,59.4102 Z" id="Stroke-1" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-4"></g>
+            <polygon id="Stroke-3" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="29.37 21.5694 29.392 21.5694 29.392 16.8404 29.37 16.8404"></polygon>
+            <path d="M23.3399,38.8946 C23.3399,40.8546 21.7519,42.4426 19.7929,42.4426 C17.8329,42.4426 16.2449,40.8546 16.2449,38.8946 C16.2449,36.9356 17.8329,35.3476 19.7929,35.3476 C21.7519,35.3476 23.3399,36.9356 23.3399,38.8946" id="Fill-5" fill="#FC4646" mask="url(#mask-2)"></path>
+            <path d="M42.5157,38.8946 C42.5157,40.8546 40.9277,42.4426 38.9687,42.4426 C37.0087,42.4426 35.4207,40.8546 35.4207,38.8946 C35.4207,36.9356 37.0087,35.3476 38.9687,35.3476 C40.9277,35.3476 42.5157,36.9356 42.5157,38.8946" id="Fill-6" fill="#FC4646" mask="url(#mask-2)"></path>
+            <path d="M33.3516,12.1094 C33.3516,14.3054 31.5716,16.0864 29.3746,16.0864 C27.1786,16.0864 25.3986,14.3054 25.3986,12.1094 C25.3986,9.9134 27.1786,8.1324 29.3746,8.1324 C31.5716,8.1324 33.3516,9.9134 33.3516,12.1094 Z" id="Stroke-7" stroke="#FC4646" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            <path d="M50.6661,32.212 C54.5841,32.212 57.7611,35.389 57.7611,39.308 C57.7611,43.226 54.5841,46.402 50.6661,46.402 L50.6661,32.212 Z" id="Stroke-8" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            <path d="M8.0948,32.212 C4.1768,32.212 0.9998,35.389 0.9998,39.308 C0.9998,43.226 4.1768,46.402 8.0948,46.402 L8.0948,32.212 Z" id="Stroke-9" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            <path d="M29.375,1 L29.375,4.993" id="Stroke-10" stroke="#FC4646" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            <path d="M40.4649,12.1094 L36.4719,12.1094" id="Stroke-11" stroke="#FC4646" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+            <path d="M37.8555,3.7159 L34.7845,6.7559" id="Stroke-12" stroke="#FC4646" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>

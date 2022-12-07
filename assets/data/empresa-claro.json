@@ -1,0 +1,50 @@
+[
+  {
+    "desde": "Desde un Móvil Claro",
+    "telefono": "135",
+    "consulta": "Consultas generales sobre tu servicio Móvil Corporativo",
+    "horario": "24 x 7"
+  },
+  {
+    "desde": "Desde un móvil o fijo",
+    "telefono": "0800 00800",
+    "consulta": "Consultas generales sobre tu servicio Fijo Corporativo",
+    "horario": "24 x 7"
+  },
+  {
+    "desde": "Desde un móvil o fijo",
+    "telefono": "0800 00911",
+    "consulta": "Consultas sobre los servicios de Internet corporativo, Primario o Troncal, Red Privada Virtual o Servicios Gestionados:",
+    "horario": ""
+  },
+  {
+    "desde": "",
+    "telefono": "",
+    "consulta": "- Opción 1: Consulta de saldos y consumos.",
+    "horario": "24 x 7"
+  },
+  {
+    "desde": "",
+    "telefono": "",
+    "consulta": "- Opción 2: Asistencia técnica.",
+    "horario": "24 x 7"
+  },
+  {
+    "desde": "",
+    "telefono": "",
+    "consulta": "- Opción 3: Registro de reclamos.",
+    "horario": "Lunes a Viernes de 9:00 a.m. a 6:00 p.m."
+  },
+  {
+    "desde": "",
+    "telefono": "",
+    "consulta": "Opción 4: Configuración de servicios gestionados.",
+    "horario": "24 x 7"
+  },
+  {
+    "desde": "",
+    "telefono": "",
+    "consulta": "- Opción 5: Atención sobre servicios cloud.",
+    "horario": "24 x 7"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "desde": "Desde un Móvil Claro",
+    "telefono": "123",
+    "consulta": "Consultas generales sobre tu servicio Móvil",
+    "horario": "Lunes a Domingo: 06:00 - 24:00"
+  },
+  {
+    "desde": "Desde un Fijo",
+    "telefono": "0800 00123",
+    "consulta": "Consultas generales sobre tu servicio Fijo",
+    "horario": "Lunes a Domingo: 06:00 - 24:00"
+  },
+  {
+    "desde": "Desde un Móvil o Fijo",
+    "telefono": "0800 00200",
+    "consulta": "Venta de servicios Móviles, Hogar y Claro Empresa.",
+    "horario": "Lunes a Domingo: 08:00 - 20:00"
+  }
+]
